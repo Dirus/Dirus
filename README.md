@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dirus
-- 👀 I’m interested in building RESTFULL API's
-- 🌱 I’m currently learning Python,Golang, Java
+- 👀 I’m interested in building RESTFULL API's, and ETL data transformations.
+- 🌱 I’m currently learning Python, AWS, pyspark
 - 📫 How to reach me - solankie97.deepesh@gmail.com
 
 <!---
